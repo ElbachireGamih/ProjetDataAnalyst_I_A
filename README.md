@@ -1,2 +1,3 @@
 # ProjetDataAnalyst_I_A
-![Uploading WhatsApp Image 2024-12-02 at 00.09.33.jpeg…]()
+Bienvenue sur mon portfolio de projets ! Ici, vous trouverez une sélection de projets sur lesquels j'ai travaillé en tant que data scientist et analyste de données et data engineer. Chaque projet démontre mes compétences en analyse de données, en machine learning, en ingénierie des données, et en visualisation.
+
